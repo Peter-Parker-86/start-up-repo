@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "815834096214",
+    "firebase_url": "https://game-of-lyfe-18385559.firebaseio.com",
+    "project_id": "game-of-lyfe-18385559",
+    "storage_bucket": "game-of-lyfe-18385559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815834096214:android:477784ea3920b4adbbd1f7",
+        "android_client_info": {
+          "package_name": "Lyfe.Game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815834096214-gnup9ohbas0cj02uvunrg9pfbg2p0ri8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM1ye-aVLhS8H4LldKpY7NMaInuEAwhWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105508998754289255540",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815834096214:android:b9f75c96d8a72094bbd1f7",
+        "android_client_info": {
+          "package_name": "com.garena.msdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815834096214-gnup9ohbas0cj02uvunrg9pfbg2p0ri8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM1ye-aVLhS8H4LldKpY7NMaInuEAwhWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105508998754289255540",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
